@@ -1,0 +1,29 @@
+id,kind,name,role,occupation,birth_year,death_year,date,type,author,title,start_year,end_year,place_id
+1,places,Porto,,,,,,cidade,,,1820,1834,
+2,places,Lisboa,,,,,,cidade,,,1820,1834,
+3,places,Coimbra,,,,,,cidade,,,1820,1834,
+4,places,Rio de Janeiro,,,,,,cidade,,,1820,1834,
+10,events,Liberal Revolution,,,,,1820,revolucao,,Liberal Revolution,1820,1820,1
+11,events,Vilafrancada,,,,,1823,golpe militar,,Vilafrancada,1823,1823,2
+12,events,Cerco do Porto,,,,,1832,cerco/batalha,,Cerco do Porto,1832,1833,1
+13,events,Convencao de Evora-Monte,,,,,1834,tratado de paz,,Convenção de Évora-Monte,1834,1834,2
+20,groups,Sinedrio,,,,,,sociedade secreta,,Sinédrio Secreto,1818,1820,1
+21,groups,Exercito Liberal,,,,,,forca militar,,Exército Liberal,1828,1834,1
+22,groups,Bravos do Mindelo,,,,,,contingente militar,,Bravos do Mindelo,1832,1834,1
+30,institutions,Junta Provisional do Governo Supremo do Reino,,,,,,governo provisorio,,Junta Provisional,1820,1821,1
+31,institutions,Cortes Constituintes de 1821,,,,,,parlamento constituinte,,Cortes Gerais Constituintes,1821,1822,2
+32,institutions,Universidade de Coimbra,,,,,,universidade,,Universidade de Coimbra,1290,2026,3
+40,people,Manuel Fernandes Tomás,Juiz e Líder Revolucionário,Magistrado,1771,1822,,politico,,Manuel Fernandes Tomás,1820,1822,1
+41,people,José da Silva Carvalho,Ministro e Membro da Junta,Advogado e Político,1782,1856,,politico,,José da Silva Carvalho,1820,1834,1
+42,people,Bernardo Sepúlveda,Coronel e Comandante Militar,Militar,1784,1832,,militar,,Bernardo Sepúlveda,1820,1823,1
+43,people,Sebastião Drago Valente de Brito Cabreira,Coronel de Artilharia,Militar,1763,1833,,militar,,Sebastião Cabreira,1820,1823,1
+44,people,Frei Francisco de São Luís,Secretário dos Negócios Interiores,Religioso e Estadista,1766,1845,,politico,,Cardeal Saraiva,1820,1834,1
+45,people,D. Pedro IV,Regente e Rei Soldado,Monarca Constitucional,1798,1834,,monarca,,D. Pedro IV,1822,1834,1
+46,people,D. Miguel I,Rei Absolutista,Monarca,1802,1866,,monarca,,D. Miguel I,1823,1834,2
+47,people,Manuel Borges Carneiro,Deputado e Jurista,Jurista,1774,1836,,jurista,,Manuel Borges Carneiro,1821,1834,2
+50,sources,Manifesto de 1820,,,,,1820,manifesto,Manuel Fernandes Tomás,Manifesto da Junta Provisional aos Portugueses,1820,1820,1
+51,sources,Gazeta de Lisboa,,,,,1820,jornal periodico,Imprensa Régia,Gazeta de Lisboa - Edição Extraordinária,1820,1820,2
+52,sources,Constituicao Politica de 1822,,,,,1822,constituicao,Cortes Gerais e Extraordinárias,Constituição Política da Monarquia Portuguesa de 1822,1822,1822,2
+53,sources,Carta Constitucional de 1826,,,,,1826,carta constitucional,D. Pedro IV,Carta Constitucional da Monarquia Portuguesa,1826,1826,2
+54,sources,Proclamacao do Campo de Santo Ovidio,,,,,1820,proclamacao militar,Coronel Bernardo Sepúlveda,Proclamação aos Soldados e Habitantes do Porto,1820,1820,1
+

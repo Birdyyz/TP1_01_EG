@@ -1,0 +1,33 @@
+id,kind,name,role,occupation,birth_year,death_year,date,type,author,title,start_year,end_year,place_id
+1,places,Lisboa,,,,,,capital,,,1147,2026,
+2,places,Berlim,,,,,,capital,,,1237,2026,
+3,places,Minas da Panasqueira,,,,,,regiao_mineira,,,1890,2026,
+4,places,Minas da Borralha,,,,,,regiao_mineira,,,1902,1986,
+5,places,Matosinhos,,,,,,centro_conserveiro,,,1850,2026,
+6,places,Bacia do Ruhr,,,,,,bacia_carbonifera,,,1800,2026,
+10,institutions,Banco de Portugal,,,,,,banco_central,,,1846,2026,1
+11,institutions,Reichsbank,,,,,,banco_central,,,1876,1945,2
+12,institutions,Comissao Reguladora do Comercio de Metais,,,,,,organismo_coordenacao,,,1939,1974,1
+13,institutions,Instituto Portugues de Conservas de Peixe,,,,,,gremio_setorial,,,1936,1974,1
+14,institutions,Legacao da Alemanha em Lisboa,,,,,,missao_diplomatica,,,1933,1945,1
+20,people,Antonio de Oliveira Salazar,Presidente do Conselho e MNE,estadista,1889,1970,,,,,1932,1968,1
+21,people,Oswald Baron von Hoyningen-Huene,Ministro da Alemanha em Lisboa,diplomata,1885,1963,,,,,1934,1944,1
+22,people,Pedro Teotonio Pereira,Embaixador Especial e Negociador Comercial,diplomata,1902,1972,,,,,1938,1945,1
+23,people,Rafael da Silva Neves Duque,Ministro da Economia,economista,1893,1969,,,,,1940,1944,1
+30,groups,Terceiro Reich Alemao,,,,,,governo_beligerante,,,1933,1945,2
+31,groups,Beralt Tin and Wolfram,,,,,,empresa_concessionaria,,,1928,1974,3
+32,groups,Sociedade das Minas da Borralha,,,,,,empresa_concessionaria,,,1902,1974,4
+40,events,Acordo de Compensacao Comercial Luso-Alemao,,,,,1936,acordo_clearing,,,1936,1936,1
+41,events,Exportacao de Conservas de Sardinha para a Alemanha,,,,,1940,mercadoria_exportacao,,,1940,1942,5
+42,events,Importacao de Carvao da Bacia do Ruhr,,,,,1940,mercadoria_importacao,,,1940,1941,6
+43,events,Importacao de Ferro e Aco Laminado Alemao,,,,,1940,mercadoria_importacao,,,1940,1941,1
+44,events,Exportacao Macica de Volframio para a Alemanha,,,,,1941,mercadoria_exportacao,,,1941,1941,3
+45,events,Importacao de Armamento Mauser e Municoes,,,,,1941,mercadoria_importacao,,,1941,1941,1
+46,events,Liquidacao de Saldos Comerciais em Ouro do Reichsbank,,,,,1941,operacao_cambial,,,1941,1942,1
+47,events,Acordo Oficial de Quotas de Volframio,,,,,1942,acordo_comercial,,,1942,1942,1
+50,sources,Estatistica 1940,,,,,1940,relatorio_estatistico,Instituto Nacional de Estatistica,Estatistica do Comercio Externo de Portugal (1940),1940,1940,1
+51,sources,Estatistica 1941,,,,,1941,relatorio_estatistico,Instituto Nacional de Estatistica,Estatistica do Comercio Externo de Portugal (1941),1941,1941,1
+52,sources,PT-TT-AOS-CO-NE-2A,,,,,1940,processo_diplomatico,Torre do Tombo / AOS,PT-TT-AOS-CO-NE-2A: Negociacoes Comerciais com a Alemanha,1940,1940,1
+53,sources,PT-TT-AOS-CO-NE-2B,,,,,1941,processo_arquivistico,Torre do Tombo / AOS,PT-TT-AOS-CO-NE-2B: Fornecimento de Volframio e Metais Estrategicos,1941,1941,1
+54,sources,Contas Clearing BdP,,,,,1941,registo_contabilistico,Arquivo Historico do Banco de Portugal,Registo de Contas de Compensacao e Remessas de Ouro do Reichsbank,1941,1941,1
+55,sources,Protocolo Armamento 1941,,,,,1941,tratado_militar,Ministerio dos Negocios Estrangeiros,Protocolo Confidencial de Fornecimento de Armamento e Avioes Ju-52,1941,1941,1
